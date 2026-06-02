@@ -1,4 +1,25 @@
 # 12barblues.github.io
-A work in progress. The goal eventually is to have customizable backing tracks for jazz musicians to practice improvising over. 
-To see a concept of what this will look like, see here: https://mtrains.github.io/12barblues/workinprogress.html There is obviously much work to be done, and I'll likely end up redoing it from scratch to ensure that the timings of the notes are precise enough for musicians. 
-For now, you can play around with chords here: https://mtrains.github.io/12barblues/jazzchords.html
+
+This project aims to provide beginning and intermediate jazz musicians with a way to practice improvisation. 
+
+Objectives: 
+- Provide the same benefits as practicing with YouTube backing tracks
+- Allow the user to customize chords, tempo, and style
+- Allow continuous playback for uninterrupted practice
+- Have a super easy to use user interface
+
+User instructions
+
+Because this uses a maxpatch, the user will need to download Max: https://cycling74.com/downloads 
+Then download the 12barblues.maxpat file and open in Max. 
+Future improvements aim to allow the user to use the patch without a Max subscription. 
+
+
+
+Background: 
+This project was initially attempted using Javascript only back in 2020. I wanted to find a substitute for using inflexible youtube videos for backing tracks to practice jazz improvisation. After learning Max while pursing a music technology minor, I attempted the project again with much more success. For now the old files will remain in the repository. 
+
+Future improvements: 
+- Hosting directly on Github Pages, if possible
+- Additional backing patterns and chord types
+- Stronger/softer variations of the same styles
